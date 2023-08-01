@@ -1,3 +1,3 @@
-Obs: Por falta de tempo acabei não usando o Figma
+Obs1: Por falta de tempo acabei não usando o Figma.
 
-Obs: Assistir o vídeo de demonstração do projeto localizado nesta pasta "demonstracao.mkv"
+Obs2: Fazer o download e assistir o vídeo de demonstração do projeto localizado nesta pasta "demonstracao.mkv".
