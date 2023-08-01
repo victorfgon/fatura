@@ -16,7 +16,7 @@ React.
 
 1 - Acesse o diretório do frontend: cd frontend.
 
-2 - Instale as dependências: npm install.
+2 - Instale as dependências: npm install --legacy-peer-deps.
 
 3 - Execute o aplicativo frontend: npm start.
 
